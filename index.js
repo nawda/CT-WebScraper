@@ -18,5 +18,5 @@ $('div.panel-default').each((i, elm) => {
     return books;     
     })
     .then (books => {
-        console.log(books);
-    });
+console.log(books);
+});
